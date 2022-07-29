@@ -1,2 +1,1 @@
-# freeCodeCamp_Responsive_Web_Design
-More practice focusing on Front-End development to improve website responsiveness &amp; learn to implement more features.
+### Lesson-1: HTML practice by building cat Photo App
