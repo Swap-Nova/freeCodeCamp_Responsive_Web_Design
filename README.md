@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C511BAQHqArTPxU3gMg/company-background_10000/0/1519802035360?e=2147483647&v=beta&t=qjYL0PnmElnmtgKzHGpFN9a45cYnEz3J25XanIE87lo" alt="freecodecamp logo">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" alt="freecodecamp logo" width="25%">
 
 ` Lesson-1: HTML practice by building cat Photo App `
 
