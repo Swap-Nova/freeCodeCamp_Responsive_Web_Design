@@ -7,3 +7,5 @@
 ` Lesson-3: Learn CSS Colors by Building a Set of Colored Markers `
 
 ` Lesson-4: Learn HTML Forms by Building a Registration Form `
+
+` Lesson-5: Learn the CSS Box Model by Building a Rothko Painting ` 
